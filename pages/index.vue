@@ -1,12 +1,12 @@
 <template>
-  <div>Hello world</div>
+  <div>เพชรายุธ</div>
 </template>
 <script>
 export default {
   data() {
     return {
-      id: 1,
-    }
-  },
-}
+      id: 1
+    };
+  }
+};
 </script>
